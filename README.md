@@ -1,10 +1,12 @@
 # login_libs
 模拟登陆各网站的代码 - 持续更新，欢迎PR
 
-## 主要使用的第三方库
-* urllib
-* urllib2
-* cookielib
+看有人写了Request的，我整理个urllib2的登陆集合
+
+## 使用的第三方库
+* **urllib**
+* **urllib2**
+* **cookielib**
 
 ## github
 登陆github需要post5个信息  
